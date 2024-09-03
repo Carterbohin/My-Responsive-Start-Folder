@@ -333,7 +333,7 @@ body {
 }
 
 #headerWrapper {
-  background-color: #5E6E7A;
+  background-color: #48535c;
   color: #FAB243;
 }
 
@@ -363,7 +363,7 @@ nav ul li {
   flex: 1;
 }
 nav li.active {
-  background-color: #FAB243;
+  background-color: #ffa825;
 }
 nav a {
   display: block;
